@@ -81,7 +81,7 @@ export default function ExemploLashDesigner() {
       <div className={styles.localização}>
         <div className={styles.h2DivLocalização}>
           <h2>Centro empresarial parque Brasília</h2>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d704.3027908291701!2d-47.91173929841206!3d-15.795009187634223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3a8f94a13fe5%3A0x1c1ae579cce49c2b!2sCentro%20Empresarial%20Parque%20Bras%C3%ADlia!5e1!3m2!1spt-BR!2sbr!4v1626711319204!5m2!1spt-BR!2sbr" loading="lazy"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3393.8684258614967!2d-48.12229147700662!3d-15.818705839993754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935bccf50115a205%3A0xb60f52ae68122cbc!2sSt.%20N%20QNN%2019%20Conj.%20C%20-%20Ceil%C3%A2ndia%2C%20Bras%C3%ADlia%20-%20DF%2C%2072225-190!5e1!3m2!1spt-BR!2sbr!4v1702480262275!5m2!1spt-BR!2sbr" loading="lazy"></iframe>
         </div>
       </div>
 
